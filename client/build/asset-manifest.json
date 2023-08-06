@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.aa1e22e6.js",
+    "static/media/pizza_banner.png": "/static/media/pizza_banner.ff374c8d639dcc661e93.png",
+    "index.html": "/index.html",
+    "main.aa1e22e6.js.map": "/static/js/main.aa1e22e6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aa1e22e6.js"
+  ]
+}
